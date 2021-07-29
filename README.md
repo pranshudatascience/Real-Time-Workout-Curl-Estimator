@@ -6,10 +6,14 @@ About Mediapipe: https://google.github.io/mediapipe/
 
 OUTPUT:
 
-![Uploading Screenshot (228).png…]()
+
+
+
+![Screenshot (228)](https://user-images.githubusercontent.com/31736193/127545386-d4f8e280-b56a-4013-aa06-7566d1a3ae11.png)
+
 
 ![Screenshot (226)](https://user-images.githubusercontent.com/31736193/127545079-93cab1c4-5694-4866-bebf-6c4634364c1b.png)
 
-![Uploading Screenshot (226) - Copy.png…]()
+![Screenshot (227)](https://user-images.githubusercontent.com/31736193/127545479-63e11daa-d298-41e8-8ff0-40368dc4d3b0.png)
 
 
